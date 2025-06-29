@@ -1,5 +1,5 @@
-# TLC_1
-**Translating Care Healthcare Project: Multilingual Medical Chatbot via Pivot Translation – First draft**
+# TLC
+**Translating Care Healthcare Project: Multilingual Medical Chatbot via Pivot Translation – work in progress**
 
 > *Selected for development at the 2025 SCAI Franco-Moroccan Research Center Summer School for Sustainable AI for Resource-Constrained Healthcare (Sorbonne University)*
 >
@@ -104,7 +104,7 @@ python app.py
 
 | Component     | Metric     | Notes                              |
 |---------------|------------|------------------------------------|
-| Translation   | BLEU, ChrF | Human spot-checks included         |
+| Translation   | COMET, BERTScore | Human spot-checks included         |
 | Task Output   | F1, EM     | Standard QA metrics                |
 | Readability   | Human Eval | Measures clarity of final response |
 
@@ -132,11 +132,10 @@ python app.py
 
 ### 📚 References
 
-- Hugging Face Transformers  
-- TICO-19 Dataset  
-- SQuAD v2 for QA  
-- Helsinki-NLP MarianMT models  
-
+<!-- - Hugging Face Transformers-->
+<!-- - TICO-19 Dataset-->
+<!-- - SQuAD v2 for QA-->
+<!-- - Helsinki-NLP MarianMT models-->
 </details>
 
 ---
@@ -144,7 +143,7 @@ python app.py
 ## 👩‍💻 About the Author
 
 **Amélie Smith**  
-&emsp;MSc student in Computer Science and Linguistics – Sorbonne University  
+&emsp;MSc student in Computer Science and Linguistics, Sorbonne University  
 &emsp;Specialization: Low-Resource Machine Translation & AI for Health  
 
 **Email:** amelie.smith@sorbonne-universite.fr / amelie.laceysmith@gmail.com  
