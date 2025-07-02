@@ -1,4 +1,4 @@
-*MIRIAD “Medical Instruction and Retrieval Dataset”dataset :*
+## MIRIAD “Medical Instruction and Retrieval Dataset”dataset :
 
  📂Dataset: https://lnkd.in/e4qVkg_k
  🔗Website: https://lnkd.in/e5jWhBxW
@@ -21,8 +21,8 @@ Pros
 ✅ Large range of medical fields consulted
 
 Cons
-🚫No automatic test/train split on repository
-🚫Only in English : no translation examples or results
+🚫 No automatic test/train split on repository
+🚫 Only in English : no translation examples or results
 
 
 
