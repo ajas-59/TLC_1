@@ -1,7 +1,7 @@
 # TLC
 **Translating Care Healthcare Project: Multilingual Medical Chatbot via Pivot Translation – work in progress**
 
-> *Selected for development at the 2025 SCAI Franco-Moroccan Research Center Summer School for Sustainable AI for Resource-Constrained Healthcare (Sorbonne University)*
+> *Selected for development at the 2025 SCAI (Sorbonne Cluster for AI) Franco-Moroccan Research Center Summer School for Sustainable AI for Resource-Constrained Healthcare*
 >
 > 
 > *Referenced by Prof. Wiem Takrouni (dissertation supervisor)*
