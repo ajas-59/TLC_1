@@ -8,20 +8,21 @@ MIRIAD dataset :
 
 
 Description :
-5,821,948 medical instruction-response pairs
+5,821,948 medical instruction-response pairs drawn from Seamantic Scholar papers
+Spans 56 medical disciplines
 6.7% LLM precision increase
 22.5 to 37% improvement of hallucination detection
 
 Pros
-Open source HuggingFace repository
-Clear question/answer format
-Paper and text passage cited for each answer (verifiable and reproductible)
-Only medical questions/answers
-Spans 56 medical disciplines
+✅ Open source HuggingFace repository
+✅ Clear question/answer format
+✅ Paper and text passage cited for each answer (verifiable and reproductible)
+✅ Only medical questions/answers
+✅ Large range of medical fields consulted
 
 Cons
-No automatic test/train split on repository
-Only in English : no translation examples or results
+🚫No automatic test/train split on repository
+🚫Only in English : no translation examples or results
 
 
 
