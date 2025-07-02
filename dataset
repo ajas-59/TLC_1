@@ -3,29 +3,30 @@ MIRIAD “Medical Instruction and Retrieval Dataset”dataset :
  📂Dataset: https://lnkd.in/e4qVkg_k
  🔗Website: https://lnkd.in/e5jWhBxW
  📜Preprint: https://lnkd.in/e7yFj2SX
- 💻Code: https://lnkd.in/ekGSKDrN
+ 💻GitHub: https://lnkd.in/ekGSKDrN
  🪐Demo: https://lnkd.in/eafUEFzn
 
 
 Description :
-5,821,948 medical instruction-response pairs 
-Knowledge-grounded : сontent drawn from Seamantic Scholar papers
-Spans 56 medical disciplines
-6.7% LLM precision increase
-22.5 to 37% improvement of hallucination detection
-Alignement LLM and experts : 92.3% on groundedness, 88.6% on factuality, and 78.4% on relevance
+- 5,821,948 medical instruction-response pairs 
+- Knowledge-grounded : сontent drawn from Seamantic Scholar papers
+- Spans 56 medical disciplines
+
+- 6.7% LLM precision increase
+- 22.5 to 37% improvement of hallucination detection
+- Alignement LLM and experts : 92.3% on groundedness, 88.6% on factuality, and 78.4% on relevance
+
 
 Pros
 ✅ Open source HuggingFace repository
-✅ Clear question/answer format
+✅ Clear medical question/answer format
 ✅ Paper and text passage cited for each answer (verifiable and reproductible)
-✅ Only medical questions/answers
 ✅ Large range of medical fields consulted
+✅ Most improvement "basic medical sciences" and "public health" topics
+✅ Docker setup given
 
 Cons
-🚫 No automatic test/train split on HuggingFace repository -> 
-🚫 Only in English : no translation examples or results -> will ask one of the authors
-
+🚫 Only in English : no translation examples or results -> am in contact with one of the authors
 
 
 @misc{zheng2025miriadaugmentingllmsmillions,
