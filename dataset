@@ -1,0 +1,18 @@
+MIRIAD dataset :
+
+ 📂Dataset: https://lnkd.in/e4qVkg_k
+ 🔗Website: https://lnkd.in/e5jWhBxW
+ 📜Preprint: https://lnkd.in/e7yFj2SX
+ 💻Code: https://lnkd.in/ekGSKDrN
+ 🪐Demo: https://lnkd.in/eafUEFzn
+
+Pros
+Open source HuggingFace repository
+Clear question/answer format
+Paper and text passage cited for each answer (verifiable and reproductible)
+Only medical questions/answers
+Spans 56 medical disciplines
+
+Cons
+No automatic test/train split
+Only in English
