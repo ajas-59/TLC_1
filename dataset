@@ -6,6 +6,12 @@ MIRIAD dataset :
  💻Code: https://lnkd.in/ekGSKDrN
  🪐Demo: https://lnkd.in/eafUEFzn
 
+
+Description :
+5,821,948 medical instruction-response pairs
+6.7% LLM precision increase
+22.5 to 37% improvement of hallucination detection
+
 Pros
 Open source HuggingFace repository
 Clear question/answer format
@@ -14,5 +20,16 @@ Only medical questions/answers
 Spans 56 medical disciplines
 
 Cons
-No automatic test/train split
-Only in English
+No automatic test/train split on repository
+Only in English : no translation examples or results
+
+
+
+@misc{zheng2025miriadaugmentingllmsmillions,
+ title={MIRIAD: Augmenting LLMs with millions of medical query-response pairs}, 
+ author={Qinyue Zheng and Salman Abdullah and Sam Rawal and Cyril Zakka and Sophie Ostmeier and Maximilian Purk and Eduardo Reis and Eric J. Topol and Jure Leskovec and Michael Moor},
+ year={2025},
+ archivePrefix={arXiv},
+ primaryClass={cs.CL},
+ url={https://arxiv.org/abs/2506.06091}, 
+ }
